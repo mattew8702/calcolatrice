@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "calcolatrice"
+    }
+  },
+  "defaultProject": "calcolatrice",
+  "cli": {
+    "analytics": false
+  }
 }
